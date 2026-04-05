@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# FAISS index (tu jo bhi naam use kar raha hoga)
+faiss_index/
+*.faiss
+*.pkl
+
+# env files (agar use kar raha hai)
+.env
+
+# virtual env
+venv/
