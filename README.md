@@ -19,24 +19,31 @@ An AI-powered finance assistant built using a **Retrieval-Augmented Generation (
 ## 🏗️ Architecture
 
 User Query
+
 ↓
 
 Embedding (Sentence Transformers)
+
 ↓
 
 FAISS Vector Search
+
 ↓
 
 Top-K Relevant Chunks
+
 ↓
 
 (Optional) Re-ranking
+
 ↓
 
 Prompt Construction
+
 ↓
 
 Local LLM (HF Transformers)
+
 ↓
 
 Final Answer
