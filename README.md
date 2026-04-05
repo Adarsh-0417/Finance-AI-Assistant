@@ -63,11 +63,15 @@ Final Answer
 
 ## 📂 Project Structure
 
-├── app.py
-├── rag_pipeline.py
-├── embeddings.py
-├── llm.py
-├── requirements.txt
+├──  app.py
+
+├──  rag_pipeline.py
+
+├──  embeddings.py
+
+├──  llm.py
+
+├──  requirements.txt
 
 ---
 
