@@ -1,4 +1,4 @@
-# 💹 Finance AI Assistant (Local RAG System)
+# 💹 Finance AI Assistant (Local RAG System) 
 
 An AI-powered finance assistant built using a **Retrieval-Augmented Generation (RAG)** pipeline that provides accurate, context-aware answers on personal finance, investing, and economic concepts — running entirely **locally without external APIs**.
 
